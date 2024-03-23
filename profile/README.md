@@ -12,14 +12,6 @@ Techdome is an innovative IT company specializing in delivering bespoke solution
 
 Sparrow API Tool is one of our flagship products, designed to streamline API development and management. It's an open-source tool that empowers developers to build, test, and monitor APIs with ease. Check it out on [GitHub](https://github.com/sparrowapp-dev/sparrow-app)!
 
-## 📊 GitHub Stats
-
-![Techdome's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Techdome&show_icons=true&theme=dark)
-
-## 📈 Contribution Graph
-
-![Techdome's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Techdome&theme=rogue)
-
 ## 🔧 Technologies We Love
 
 <p align="left">
@@ -43,7 +35,7 @@ Sparrow API Tool is one of our flagship products, designed to streamline API dev
 
 ## 📫 Connect With Us
 
-- **Website:** [techdome.com](https://techdome.io/)
-- **Twitter:** [@TechdomeHQ](https://twitter.com/techdomesolves)
-- **LinkedIn:** [Techdome](https://www.linkedin.com/company/techdome-solutions/)
+- **Website:** [techdome.io](https://techdome.io/)
+- **Twitter:** [techdomesolves](https://twitter.com/techdomesolves)
+- **LinkedIn:** [techdome-solutions](https://www.linkedin.com/company/techdome-solutions/)
 - **Email:** contact@techdome.net.in
