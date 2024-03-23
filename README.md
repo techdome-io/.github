@@ -22,22 +22,24 @@ Sparrow API Tool is one of our flagship products, designed to streamline API dev
 
 ## 🔧 Technologies We Love
 
-- ![Python](https://www.python.org/static/img/python-logo.png)
-- ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
-- ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
-- ![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
-- ![.NET](https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg)
-- ![C#](https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg)
-- ![Docker](https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg)
-- ![Kubernetes](https://upload.wikimedia.org/wikipedia/commons/6/67/Kubernetes_logo.svg)
-- ![Apache Kafka](https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg)
-- ![Apache Flink](https://upload.wikimedia.org/wikipedia/commons/b/b5/Apache_Flink_logo.svg)
-- ![Apache Hadoop](https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg)
-- ![Databricks](https://upload.wikimedia.org/wikipedia/commons/3/38/Databricks_Logo.png)
-- ![Prometheus](https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg)
-- ![Grafana](https://upload.wikimedia.org/wikipedia/commons/0/0d/Grafana_Logo_Large.png)
-- ![Azure](https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg)
-- ![AWS](https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg)
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>&nbsp;&nbsp;
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> </a>&nbsp;&nbsp;
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> </a>&nbsp;&nbsp;
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET" width="40" height="40"/> </a>&nbsp;&nbsp;
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> </a>&nbsp;&nbsp;
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> </a>&nbsp;&nbsp;
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/> </a>&nbsp;&nbsp;
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Apache Kafka" width="40" height="40"/> </a>&nbsp;&nbsp;
+  <a href="https://flink.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_flink/apache_flink-icon.svg" alt="Apache Flink" width="40" height="40"/> </a>&nbsp;&nbsp;
+  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="Apache Hadoop" width="40" height="40"/> </a>&nbsp;&nbsp;
+  <a href="https://databricks.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="Databricks" width="40" height="40"/> </a>&nbsp;&nbsp;
+  <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="40" height="40"/> </a>&nbsp;&nbsp;
+  <a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/> </a>&nbsp;&nbsp;
+  <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/> </a>&nbsp;&nbsp;
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/a/19/aws.svg" alt="AWS" width="40" height="40"/> </a>&nbsp;&nbsp;
+</p>
 
 ## 📫 Connect With Us
 
